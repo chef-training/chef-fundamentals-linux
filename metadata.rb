@@ -5,9 +5,9 @@ license           'Creative Commons Attribution-ShareALike 4.0 International (CC
 description       'Chef Fundamentals - Linux'
 version           '2.1.6'
 
-asset             "Chef-Fundamentals.key", "Presentation (Keynote)"
-asset             "Chef-Fundamentals.pdf", "Presentation (PDF)"
-asset             "Chef-Fundamentals-StudentHandouts.docx", "Attendee Handouts (Word)"
-asset             "Chef-Fundamentals-StudentHandouts.pdf", "Attendee Handouts (PDF)"
+asset             'Chef-Fundamentals.key', 'Presentation (Keynote)'
+asset             'Chef-Fundamentals.pdf', 'Presentation (PDF)'
+asset             'Chef-Fundamentals-StudentHandouts.docx', 'Attendee Handouts (Word)'
+asset             'Chef-Fundamentals-StudentHandouts.pdf', 'Attendee Handouts (PDF)'
 
-local_release_folder "~/Google\\ Drive/Training/Chef\\ Fundamentals\\ -\\ Unix/Releases"
+local_release_folder '~/Google\\ Drive/Training/Chef\\ Fundamentals\\ -\\ Unix/Releases'
